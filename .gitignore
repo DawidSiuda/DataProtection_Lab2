@@ -1,0 +1,13 @@
+Debug/
+x64/
+lab2.sln
+/lab2/Debug/
+/lab2/x64/
+/lab2/lab2.aps
+/lab2/lab2.rc
+/lab2/lab2.vcxproj
+/lab2/lab2.vcxproj.filters
+/lab2/lab2.vcxproj.user
+/lab2/resource.h
+.vs/
+
